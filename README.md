@@ -59,7 +59,7 @@ fake-news-app/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/fake-news-app.git
+git clone https://github.com/MuhammadZahran26/Fake-News-Detection-App.git
 cd fake-news-app
 ```
 
